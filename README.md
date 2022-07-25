@@ -5,5 +5,7 @@
 <tr><td>1</td><td>2</td></tr>
 <tr><td>3</td><td>4</td></tr>
 
-7/25/2022
+Commit Ctrl K
+Push CtrlShif K
+
 </table>
