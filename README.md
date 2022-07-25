@@ -8,5 +8,6 @@
 git add .
 git commit -m "Write a note"
 
-
+Git->Push
+Push
 </table>
